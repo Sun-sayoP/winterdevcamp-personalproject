@@ -1,0 +1,22 @@
+{
+  "name": "winterdevcamp-personalproject",
+  "version": "1.0.0",
+  "description": "[smilegate] 2022 윈터데브캠프 \r 개인프로젝트 URL Shortner\r 강원 toPangyo 선원종",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sun-sayoP/winterdevcamp-personalproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sun-sayoP/winterdevcamp-personalproject/issues"
+  },
+  "homepage": "https://github.com/Sun-sayoP/winterdevcamp-personalproject#readme"
+}
