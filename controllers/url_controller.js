@@ -1,5 +1,5 @@
 const shortid = require('shortid');
-const Url = require('../models/urlmodel');
+const Url = require('../models/shortUrl');
 
 const baseUrl = 'http://localhost:5000';
 
@@ -49,5 +49,5 @@ module.exports = {
       console.error(err);
       res.status(500).json('Server Error');
     }
-  },
+  }
 };
