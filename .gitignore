@@ -3,3 +3,4 @@ config/
 deploy/
 docs/
 src/
+routes/

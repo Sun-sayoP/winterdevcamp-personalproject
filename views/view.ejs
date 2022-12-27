@@ -21,7 +21,7 @@
       <button class="btn btn-primary" type="submit" style="background-color: rgb(55, 55, 66);">Submit</button>
     </form>
   
-    <table class="table">
+    <table class="table table-striped">
       <thead class="thead-dark">
         <tr>
           <th>Full URL</th>
@@ -34,7 +34,7 @@
           <form action="/delete" method="POST">
             <tr>
               <td><a href="<%= shortUrl.full %>"><%= shortUrl.full %></a></td>
-              <td><a href="<%= shortUrl.short %>"><%= shortUrl.short %></a></td>
+              <td ><a href="<%= shortUrl.short %>"><%= shortUrl.short %></a></td>
               <td>
                 <button type="submit" class="btn btn-warning"></button>
               </td>
